@@ -1,0 +1,16 @@
+{
+  "name": "syu-campus-plants",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "沈阳大学校园植物图鉴：纯静态网页，支持检索、筛选、校园分布、识种测验与离线使用。",
+  "scripts": {
+    "serve": "node scripts/serve.mjs 4321",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs && node scripts/check-imports.mjs && node scripts/test-logic.mjs",
+    "shots": "node scripts/cdp-check.mjs",
+    "flows": "node scripts/cdp-flows.mjs"
+  },
+  "keywords": ["plants", "campus", "shenyang-university", "pwa", "static-site"],
+  "license": "MIT"
+}

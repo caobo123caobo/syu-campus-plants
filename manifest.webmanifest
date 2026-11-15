@@ -1,0 +1,23 @@
+{
+  "name": "沈阳大学校园植物图鉴",
+  "short_name": "沈大植物",
+  "description": "沈阳大学校园植物图鉴：95 种校园植物的识别特征、生态习性、用途与校园分布，支持检索、筛选、离线使用与识种练习。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f5ef",
+  "theme_color": "#0f3d2e",
+  "categories": ["education", "reference", "books"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "搜索植物", "url": "./#/home", "description": "打开图鉴并搜索" },
+    { "name": "看图识种", "url": "./#/quiz", "description": "进入小测验" }
+  ]
+}

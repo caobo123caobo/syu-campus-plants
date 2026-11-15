@@ -1,0 +1,11 @@
+# 本地原始资料（DOCX 抽取的图片、中间 JSON、备份）
+_source/
+_shots/
+_debug/
+
+# 依赖与工具产物
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
