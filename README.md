@@ -3,7 +3,7 @@
 > 一个给校园植物识别和植物学实习用的纯静态网页应用。收录沈阳大学校园植物 **95 种**、照片 **454 张**，支持检索、筛选、校园分布、看图识种测验、观察记录与离线使用。
 
 - 仓库：<https://github.com/caobo123caobo/syu-campus-plants>
-- 在线访问（启用 GitHub Pages 后）：<https://caobo123caobo.github.io/syu-campus-plants/>
+- 在线访问：<https://caobo123caobo.github.io/syu-campus-plants/>
 
 ![首页](docs/screenshots/home.webp)
 ![物种详情](docs/screenshots/detail.webp)
